@@ -1,0 +1,8 @@
+B-43222 Migrate Distribution Group to historic data - Дима
+B-42114 Add Distribution Group Дима
+B-43161 SPIKE: Analyze and Create Test data for sending to LM - Аня?
+B-42881 Automate testing: Increase invoicing rules logic coverage - Лена?
+B-42406 Do not send approval deny email for "purchased elsewhere" flow - Ярик
+B-42175 SPIKE: investigate branding changes Ярик
+B-41532 SPIKE: Update Cart for Republication Маша
+B-35778 Cancel DPS/TRS item/order from RF Pro Стас
